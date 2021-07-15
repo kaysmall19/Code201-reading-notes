@@ -1,5 +1,5 @@
 # Code201-reading-notes
-Table Contents<br>
+##Table Contents<br>
 Read: 01 - HTML Text, CSS Introduction, and Basic JavaScript Instructions<br>
 Read: 02 - HTML Lists, CSS Boxes, JS Control Flow<br>
 Read: 03 - HtML Links, CSS Layout, JS Functions<br>
