@@ -70,22 +70,40 @@ CSS rules usually appear in a separate document, although they may appear within
 
 Chapter 2: Basic JavaScript Instructions
 
+Vocabulary
 
+Statement: individual instruction or step that a computer can follow one by one.
 
+Comments: explain what you are doing with your code.
 
+Variables: represents numbers or other kinds of data
 
+Arrays: stores a lists of values
 
+Expressions: evaluates intoa single value.
 
+Operators: allow programmers to create a single value from one or more values.
 
+Notes
 
+Statements should always end with a semicolon.
 
+There are two types of comments multi-line and single.
 
+Variables are used to store bits of information.
 
+There are three types of Data Types numeric, string, and boolean.
 
+Strings are inside of quote marks.
 
+Shorthand is a way to type your code in a shorter way but if you use it make sure you spread your code over a few lines to better understand.
 
+The best time to use arrays is when you are creating a list or a set of values that are related.
 
+Summary
 
+Javascript distinguishes between numbers (0-9), string (text), and Boolean values (t/f).
 
+Scripts contain very precise instructions.
 
 Chapter 4: Decisions and Loops
