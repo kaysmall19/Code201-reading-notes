@@ -14,3 +14,5 @@ Read: 11 - Docs for the HTML (canvas) Element & Chart.js<br>
 Read: 12 - Local Storage<br>
 Read: 13a - CSS Transforms, Transitions, and Animations<br>
 Read: 13b - What Google Learned About Teams<br>
+
+https://kaysmall19.github.io/Code201-reading-notes/
