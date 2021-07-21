@@ -107,3 +107,19 @@ Javascript distinguishes between numbers (0-9), string (text), and Boolean value
 Scripts contain very precise instructions.
 
 Chapter 4: Decisions and Loops
+
+Vocabulary
+
+Conditional Statement: Based on a concept of if/then/else.
+
+Notes
+
+In condition there is an operator and two operands.
+
+A operand does not have to be a single or variable name.
+
+Logical Operators compare the results of more than one comparsion operator.
+
+If statement evaluates (or checks) a condition.
+
+If ... else statement checks a condition
