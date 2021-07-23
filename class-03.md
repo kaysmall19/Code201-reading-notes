@@ -43,9 +43,32 @@ Chapter 3 (first part): “Functions, Methods, and Objects” (pp.86-99 ONLY)
 
 Vocabulary/Notes
 
+Functions let you group a series of statements together to perform a specific task.
 
+Parameters is pieces of information passed to a function.
 
+To create a function, you give it a name and then write the statements needed to achieve its task inside the curly braces known as a function declaration.
 
+Having declared the function, you can then execute all of the statements between its curly braces with just one line of code known as calling the function.
 
+Sometimes a function needs specific information to perform its task. When you declare the function you give it parameters.
+
+Arguments are values that can be provided as values or as variables.
+
+Some functions return information to the code that called them.
+
+Functions can return more than one value using an array.
+
+Function declartion creates a function that you can call later in your code.
+
+Function expressions are a function where the interpreter would expect to see an expression, then it is treated as an expression.
+
+An Anonymous function is a function with no name.
 
 Article: “6 Reasons for Pair Programming”
+
+Vocabulary/Notes
+
+Pair programming is on way we foster a collcborative environment while developing key industry skills.
+
+Pair programming touches on all four skills: developers explain out loud what the code should do, listen to others’ guidance, read code that others have written, and write code themselves.
