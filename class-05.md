@@ -34,3 +34,12 @@ DOM queries may return one element, or they may return a NodeList, which is a co
 
 getElementId() and querySelector() can both search an entire document and return individual elements.
 
+Array synatax is preferred over the item() method because it is faster.
+
+Summary
+
+Browers offer tools for viewing the DOM tree.
+
+You can select element nodes by their id or class attributes, by tag name, or using CSS selector syntax.
+
+In older browers, implementation of the DOM is inconsistent (and is a popular reason for using jQuery.)s
