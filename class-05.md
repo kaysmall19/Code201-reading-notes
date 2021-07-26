@@ -42,4 +42,4 @@ Browers offer tools for viewing the DOM tree.
 
 You can select element nodes by their id or class attributes, by tag name, or using CSS selector syntax.
 
-In older browers, implementation of the DOM is inconsistent (and is a popular reason for using jQuery.)s
+In older browers, implementation of the DOM is inconsistent (and is a popular reason for using jQuery.)
