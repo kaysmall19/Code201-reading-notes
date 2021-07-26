@@ -26,4 +26,11 @@ The DOM is stored in the browers' memory and consists of four main types of node
 
 The document node is added to the top to represent the entire page.
 
-The element nodes
+The terms elememt and element nodes are used interchangeably but when people say the DOM is working with an element, it is actually working with a node that represents that element.
+
+Methods that find elements in the DOM tree are called DOM queries.
+
+DOM queries may return one element, or they may return a NodeList, which is a collection of nodes.
+
+getElementId() and querySelector() can both search an entire document and return individual elements.
+
